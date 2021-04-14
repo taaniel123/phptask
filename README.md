@@ -1,1 +1,1 @@
-# phptask
+# MySQL and PHP test task
